@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Srikanth Bhat
 
-<!--
-**Srikanthbhat50/Srikanthbhat50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 Passionate about learning programming and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- HTML, CSS, JavaScript
+
+## 🛠 Skills
+
+- Python Basic
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+
+## 📚 Coding Profiles
+
+- LinkedIn: https://www.linkedin.com/in/srikanth-bhat-ab0626331/
+- LeetCode: https://leetcode.com/u/srikanthb004/
+
+## 🎯 Goals
+
+- Solve LeetCode problems
+- Build real-world projects
+- Improve problem-solving skills
+- Become a Full Stack Developer
+
+## 📂 Projects
+
+
+⭐ Thanks for visiting my profile!
